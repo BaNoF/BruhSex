@@ -1,0 +1,12 @@
+
+  # SelfCoded by Almazoff а ой by BaNoF_
+
+
+name: BruhSex
+version: 1
+main: ru.mine.banoff.BruhSex
+api-version: '1.16'
+commands:
+  sex:
+    description: Spawns particles around the player.
+    usage: /sex
